@@ -29,3 +29,4 @@ https://note-taker-node-app.herokuapp.com/
 - Bootstrap 
 - NODE 
 - EXPRESS
+- JavaScript
